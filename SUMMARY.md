@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Data Structures](README.md)
+* [Data Structures Manual](README.md)
 
 ## Arrays
 
