@@ -73,3 +73,9 @@
 * [Queue using Linked List](queue/queue-using-linked-list.md)
 * [Double Ended Queue](queue/double-ended-queue.md)
 
+## Binary Tree
+
+* [Creating a Binary Tree using Queue](binary-tree/creating-a-binary-tree-using-queue.md)
+* [Recursive Tree Traversals](binary-tree/recursive-tree-traversals.md)
+* [Iterative Tree Traversals](binary-tree/iterative-tree-traversals.md)
+
