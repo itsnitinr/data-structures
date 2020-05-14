@@ -83,3 +83,7 @@
 * [Finding the Height of Tree](binary-tree/finding-the-height-of-tree.md)
 * [Finding Sum of All Nodes](binary-tree/finding-sum-of-all-nodes.md)
 
+## Binary Search Tree
+
+* [Searching in a BST](binary-search-tree/searching-in-a-bst.md)
+
