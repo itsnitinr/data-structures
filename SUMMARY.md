@@ -89,3 +89,7 @@
 * [Inserting in a BST](binary-search-tree/inserting-in-a-bst.md)
 * [Deleting in a BST](binary-search-tree/deleting-in-a-bst.md)
 
+## AVL Tree
+
+* [Inserting in an AVL Tree](avl-tree/inserting-in-an-avl-tree.md)
+
