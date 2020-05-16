@@ -92,4 +92,5 @@
 ## AVL Tree
 
 * [Inserting in an AVL Tree](avl-tree/inserting-in-an-avl-tree.md)
+* [LL Rotation](avl-tree/ll-rotation.md)
 
