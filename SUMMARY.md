@@ -95,3 +95,8 @@
 * [AVL Tree Rotations](avl-tree/avl-tree-rotations.md)
 * [Deleting in an AVL Tree](avl-tree/deleting-in-an-avl-tree.md)
 
+## Heap
+
+* [Inserting in a Heap](heap/inserting-in-a-heap.md)
+* [Deleting in a Heap](heap/deleting-in-a-heap.md)
+
