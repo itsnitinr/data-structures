@@ -35,7 +35,7 @@ void maxHeapify(int h[], int index, int size) {
 ```c
 void minHeapify(int h[], int index, int size) {
 
-    // Set largest as parent and set children
+    // Set smallest as parent and set children
     int left = 2 * index;
     int right = 2 * index + 1;
     int smallest = index;
@@ -44,7 +44,7 @@ void minHeapify(int h[], int index, int size) {
     if (left <= size && h[left] < h[smallest])
         smallest = left;
     
-    // If right child is greater, make smallest point to it
+    // If right child is smaller, make smallest point to it
     if (right <= size && h[right] < h[smallest])
         smallest = right;
         
