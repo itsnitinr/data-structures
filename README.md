@@ -18,9 +18,6 @@ Glad to hear that. You can make a pull request with your additions or changes. H
 
 There isn't any other as of now. However, feel free to create a new branch for whichever language you want to contribute for. More content to be added soon.
 
-## Is it complete ?
-
-Unfortunately, no. There's plenty of content which is not there in this repo currently. I will be adding content on trees, graphs and other data structures soon.
 
 Like the initiative ? Give this repo a star or contribute to it. This is more than I can ask for.
 
