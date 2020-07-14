@@ -2,6 +2,10 @@
 
 ![DS Header Image](https://i.imgur.com/XxR19gB.png)
 
+## Mind Map
+![Mind Map](https://i.imgur.com/5m9tojm.png)
+[View in Full Res](https://coggle.it/diagram/Xw3BX0l_UGq4pZSV/t/data-structures-in-c/fda843ad62c446e0df85e164749a6bed2b9f88ada72aa60ecedb2257b75c19d6)
+
 ## Is this guide good for beginners ? What if I have no experience with DS ?
 
 Absolutely ! I would go as far as to say that this might the very thing that you might be looking for. I guess I have covered almost all the usual operations that could be performed on each data structure. There's procedure and code comments which tries to explain all the important steps. Give it a try !
